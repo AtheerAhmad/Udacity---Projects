@@ -1,0 +1,28 @@
+/* add your CSS here */
+#interesting-fact {
+font-style: italic;
+
+}
+span {
+ font-weight: bold;
+margin-left: 0px;
+}
+#facts{
+list-style-type: none;
+}
+#card{
+border: 1px solid #e6e6e6;
+padding: 10px;
+
+
+
+}
+#container{
+  border: 1px solid #e6e6e6;
+  padding:10px;
+
+}
+img{
+border: 1px solid #e6e6e6;
+padding: 0;
+ }
